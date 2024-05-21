@@ -18,7 +18,7 @@
 ## Setup and Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/sushi-man.git
+   git clone https://github.com/manidixit51/sushi-man.git
    ```
 2. **Navigate to the Project Directory**
    ```bash
