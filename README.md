@@ -1,4 +1,4 @@
-# Sushi Man
+# Sushi Man 🍣
 
 ## Description
 "Sushi Man" is a sleek and user-friendly frontend website designed for sushi enthusiasts seeking a convenient and enjoyable dining experience. With its intuitive interface crafted using HTML and CSS, users can effortlessly browse through a diverse selection of sushi options and place orders with ease. The responsive design ensures seamless navigation across various devices, enhancing accessibility and ensuring that sushi lovers can satisfy their cravings anytime, anywhere.
